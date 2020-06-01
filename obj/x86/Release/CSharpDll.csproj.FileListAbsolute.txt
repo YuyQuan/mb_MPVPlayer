@@ -1,0 +1,8 @@
+C:\Users\Quan\Downloads\C# Source3.1\bin\x86\Release\mb_MPVPlayer.dll.config
+C:\Users\Quan\Downloads\C# Source3.1\bin\x86\Release\mb_MPVPlayer.dll
+C:\Users\Quan\Downloads\C# Source3.1\bin\x86\Release\mb_MPVPlayer.pdb
+C:\Users\Quan\Downloads\C# Source3.1\obj\x86\Release\CSharpDll.csprojAssemblyReference.cache
+C:\Users\Quan\Downloads\C# Source3.1\obj\x86\Release\CSharpDll.csproj.ResolveComReference.cache
+C:\Users\Quan\Downloads\C# Source3.1\obj\x86\Release\CSharpDll.csproj.CoreCompileInputs.cache
+C:\Users\Quan\Downloads\C# Source3.1\obj\x86\Release\mb_MPVPlayer.dll
+C:\Users\Quan\Downloads\C# Source3.1\obj\x86\Release\mb_MPVPlayer.pdb

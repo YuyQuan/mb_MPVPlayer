@@ -1,5 +1,7 @@
 # mb_MPVPlayer
 
+![alt](img/demo.gif)
+
 ## Prerequisite
 
 You'll need to install mpv such that it can be ran as a command (i.e. Win+R > "mpv.exe").
@@ -8,8 +10,7 @@ You'll need to install mpv such that it can be ran as a command (i.e. Win+R > "m
 
 ## Installation
 
-MusicBee > Edit > Edit Preferences > Plugins > Add Plugin
-\bin\x86\Release\mb_MPVPlayer.dll
+MusicBee > Edit > Edit Preferences > Plugins > Add Plugin > `mb_MPVPlayer\bin\x86\Release\mb_MPVPlayer.dll`
 
 ## Configuration
 
@@ -43,7 +44,7 @@ Play files
 
 ## Notes
 
-+ I'm using a modified version of a [C# mpv wrapper to force singe-instance behavior](https://github.com/SilverEzhik/umpvw). You can still use a regular mpv instance as a media player without confliction 👍
++ I'm using a modified version of a [mpv wrapper written in C# to force singe-instance behavior](https://github.com/SilverEzhik/umpvw). You can still use a regular mpv instance as a media player without confliction 👍
 
 + Seeking, pausing/playing matches up with mpv (MusicBee master, MPV slave) 👍
 
