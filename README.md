@@ -42,6 +42,8 @@ Play files
 
 `--geometry=-450:+1640 --autofit=444x250` Fit player to a specific position (geometry) with a specific windows size (autofit) 444/250 ~= 16:9
 
+[Many other configuation options can be found here](https://mpv.io/manual/master/#options)
+
 ## Notes
 
 + I'm using a modified version of a [mpv wrapper written in C# to force singe-instance behavior](https://github.com/SilverEzhik/umpvw). You can still use a regular mpv instance as a media player without confliction 👍
